@@ -1,0 +1,197 @@
+///////////////////////this is "section-type-10 bg-grey-2" ////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////this is "section-type-10 bg-grey-2" ////////////////////////////////////////////////
+
+
+
+
+      <div class="section-type-10 bg-grey-2">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <section class="posts-group-6">
+                <h2 class="ui-title-inner ui-title-inner_condensed"><span class="ui-title-inner__inner">most viewed</span></h2>
+                <div class="row">
+                  <div class="col-sm-6">
+                    <section class="b-post b-post_mod-c clearfix">
+                      <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/262x180/1.jpg"><img class="img-responsive hov-scal img-border" src="assets/media/content/posts/262x180/1.jpg" alt="Foto"/></a></div>
+                      <div class="entry-main">
+                        <div class="entry-header">
+                          <h2 class="entry-title"><a href="blog-post.html">Brit banker filmed grisly the torture on phone</a></h2>
+                          <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <!-- end .post-->
+                  </div>
+                  <div class="col-sm-6">
+                    <section class="b-post b-post_mod-c clearfix">
+                      <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/262x180/2.jpg"><img class="img-responsive hov-scal img-border" src="assets/media/content/posts/262x180/2.jpg" alt="Foto"/></a></div>
+                      <div class="entry-main">
+                        <div class="entry-header">
+                          <h2 class="entry-title"><a href="blog-post.html">7,000+ people apply for that boring office job</a></h2>
+                          <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <!-- end .post-->
+                  </div>
+                </div>
+              </section>
+            </div>
+            <div class="col-md-6">
+              <section class="posts-group-6">
+                <h2 class="ui-title-inner ui-title-inner_condensed"><span class="ui-title-inner__inner">featured articles</span></h2>
+                <div class="row">
+                  <div class="col-sm-6">
+                    <section class="b-post b-post_mod-c clearfix">
+                      <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/262x180/3.jpg"><img class="img-responsive hov-scal img-border" src="assets/media/content/posts/262x180/3.jpg" alt="Foto"/></a></div>
+                      <div class="entry-main">
+                        <div class="entry-header">
+                          <h2 class="entry-title"><a href="blog-post.html">The Giant spider carts off and snack as mouse</a></h2>
+                          <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <!-- end .post-->
+                  </div>
+                  <div class="col-sm-6">
+                    <section class="b-post b-post_mod-c clearfix">
+                      <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/262x180/4.jpg"><img class="img-responsive hov-scal img-border" src="assets/media/content/posts/262x180/4.jpg" alt="Foto"/></a></div>
+                      <div class="entry-main">
+                        <div class="entry-header">
+                          <h2 class="entry-title"><a href="blog-post.html">He woke from the coma and now speaking Spanish</a></h2>
+                          <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <!-- end .post-->
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+          <div class="section-sm-top wrap-inl-bl">
+            <div class="row">
+              <div class="col-md-4 col-sm-6">
+                <section class="b-post b-post_img-left b-post_img-140 clearfix">
+                  <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/140x110/1.jpg"><img class="img-responsive img-border-sm hov-scal" src="assets/media/content/posts/140x110/1.jpg" alt="Foto"/></a></div>
+                  <div class="entry-main">
+                    <div class="entry-header">
+                      <h2 class="entry-title"><a href="blog-post.html">Dozens of kids forced to sleep in 'Jungle’</a></h2>
+                      <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <!-- end .post-->
+              </div>
+              <div class="col-md-4 col-sm-6">
+                <section class="b-post b-post_img-left b-post_img-140 clearfix">
+                  <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/140x110/2.jpg"><img class="img-responsive img-border-sm hov-scal" src="assets/media/content/posts/140x110/2.jpg" alt="Foto"/></a></div>
+                  <div class="entry-main">
+                    <div class="entry-header">
+                      <h2 class="entry-title"><a href="blog-post.html">Today Apple unveils first MacBook Pro</a></h2>
+                      <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <!-- end .post-->
+              </div>
+              <div class="col-md-4 col-sm-6">
+                <section class="b-post b-post_img-left b-post_img-140 clearfix">
+                  <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/140x110/3.jpg"><img class="img-responsive img-border-sm hov-scal" src="assets/media/content/posts/140x110/3.jpg" alt="Foto"/></a></div>
+                  <div class="entry-main">
+                    <div class="entry-header">
+                      <h2 class="entry-title"><a href="blog-post.html">Brit banker filmed grisly the torture phone</a></h2>
+                      <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <!-- end .post-->
+              </div>
+              <div class="col-md-4 col-sm-6">
+                <section class="b-post b-post_img-left b-post_img-140 clearfix">
+                  <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/140x110/4.jpg"><img class="img-responsive img-border-sm hov-scal" src="assets/media/content/posts/140x110/4.jpg" alt="Foto"/></a></div>
+                  <div class="entry-main">
+                    <div class="entry-header">
+                      <h2 class="entry-title"><a href="blog-post.html">Architectural wonderland hidden in a forest</a></h2>
+                      <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <!-- end .post-->
+              </div>
+              <div class="col-md-4 col-sm-6">
+                <section class="b-post b-post_img-left b-post_img-140 clearfix">
+                  <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/140x110/5.jpg"><img class="img-responsive img-border-sm hov-scal" src="assets/media/content/posts/140x110/5.jpg" alt="Foto"/></a></div>
+                  <div class="entry-main">
+                    <div class="entry-header">
+                      <h2 class="entry-title"><a href="blog-post.html">Protection was agreed for penguins &amp; whales</a></h2>
+                      <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <!-- end .post-->
+              </div>
+              <div class="col-md-4 col-sm-6">
+                <section class="b-post b-post_img-left b-post_img-140 clearfix">
+                  <div class="entry-media"><a class="js-zoom-images  img-hover-effect" href="assets/media/content/posts/140x110/6.jpg"><img class="img-responsive img-border-sm hov-scal" src="assets/media/content/posts/140x110/6.jpg" alt="Foto"/></a></div>
+                  <div class="entry-main">
+                    <div class="entry-header">
+                      <h2 class="entry-title"><a href="blog-post.html">Electrical Venturi smash land-speed record </a></h2>
+                      <div class="entry-meta"><span class="entry-meta__item"><a class="entry-meta__link" href="blog-main.html"><strong>june 30, 2017</strong></a></span><span class="entry-meta__item"><i class="icon fa fa-comment-o text-primary"></i><a class="entry-meta__link" href="blog-main.html">29</a></span>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <!-- end .post-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
